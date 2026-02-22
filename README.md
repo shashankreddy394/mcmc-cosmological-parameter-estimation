@@ -1,6 +1,6 @@
 # MCMC Cosmological Parameter Estimation
 
-This project estimates two key cosmological parameters — the **Hubble constant (H₀)** and the **matter density parameter (Ωm)** — using a custom implementation of the **Markov Chain Monte Carlo (MCMC)** method applied to observational Hubble parameter measurements.
+This project estimates two key cosmological parameters- the **Hubble constant (H₀)** and the **matter density parameter (Ωm)** — using a custom implementation of the **Markov Chain Monte Carlo (MCMC)** method applied to observational Hubble parameter measurements.
 
 ---
 
